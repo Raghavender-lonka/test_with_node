@@ -17,5 +17,5 @@ app.get("/", (req, res) => {
 })
 
 app.listen(8080, () => {
-  console.log("listning from port 9000")
+  console.log("listning from port 8080")
 })
