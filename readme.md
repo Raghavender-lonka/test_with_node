@@ -50,7 +50,7 @@ npm start
 
 Open a web browser and type the following address:
 
-http://localhost:3000
+http://localhost:8080
 
 And you should see your Express web application
 
