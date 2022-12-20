@@ -1,3 +1,5 @@
+require("newrelic")
+
 const express = require("express")
 
 const cors = require("cors")
@@ -10,7 +12,7 @@ app.get("/", (req, res) => {
   res.json([
     {
       id: "001",
-      name: "Raghavender",
+      name: "Deepak Mani",
       role: "DevOps Engineer",
     },
   ])
