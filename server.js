@@ -12,7 +12,7 @@ app.get("/", (req, res) => {
   res.json([
     {
       id: "001",
-      name: "Deepak Mani",
+      name: "L Raghavender Reddy",
       role: "DevOps Engineer",
     },
   ])
